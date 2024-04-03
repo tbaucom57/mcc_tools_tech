@@ -37,6 +37,5 @@
     <backmatter>
         <keydef processing-role="resource-only" keys="author"><topicmeta><keywords><keyword>Tess Baucom</keyword></keywords></topicmeta></keydef>
         <keydef processing-role="resource-only" keys="homeworkfolder"><topicmeta><keywords><keyword>Tess</keyword></keywords></topicmeta></keydef>
-        <keydef processing-role="resource-only" keys="exampleImage" href="../../Week05-AgileHTML/Homework/Example_image.png"/>
     </backmatter>
 </bookmap>
