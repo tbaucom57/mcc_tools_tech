@@ -17,5 +17,8 @@
                     it to <userinput>break</userinput>.</cmd>
             </step>
         </steps>
+        <postreq>See also the Oxygen XML instructions: <xref
+                href="https://www.oxygenxml.com/doc/versions/26.1/ug-author/topics/author_adding_images.html"
+                format="html" scope="external"/>.</postreq>
     </taskbody>
 </task>

@@ -27,5 +27,10 @@
                 </dd>
             </dlentry>
         </dl>
+        <p>Be aware that maps can reference other maps. This lets you group sets of topics together
+            and reuse them between different outputs. </p>
+        <p>Also be aware there are other things you can do with maps, such as define relationships
+            between topics (relationship tables), define keys, define constraints, but those things
+            are outside the scope of what we can cover. </p>
     </conbody>
 </concept>

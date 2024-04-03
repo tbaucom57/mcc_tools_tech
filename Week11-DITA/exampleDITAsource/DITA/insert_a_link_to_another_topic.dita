@@ -15,5 +15,8 @@
         </steps>
         <example>For example, here's a link to <xref href="working_with_topics.dita"/>. The source
             is <codeph>&lt;xref href="working_with_topics.dita"/></codeph>.</example>
+        <postreq>See also the Oxygen XML documentation: <xref
+                href="https://www.oxygenxml.com/doc/versions/26.1/ug-author/topics/eppo-inline-linking.html"
+                format="html" scope="external"/>.</postreq>
     </taskbody>
 </task>
