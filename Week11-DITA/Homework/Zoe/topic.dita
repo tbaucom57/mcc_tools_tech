@@ -15,12 +15,6 @@
         <p>You can change and add all the files you want in your folder,
                     <filepath>mcc_tools_tech/Week11-DITA/Homework/<keyword keyref="homeworkfolder"
                 /></filepath>.</p>
-        <fig>
-            <title>An image referenced by a key</title>
-            <image placement="break" keyref="exampleImage">
-                <alt>All images should have an <xmlelement>alt</xmlelement> element for
-                    accessibility.</alt>
-            </image>
-        </fig>
+        
     </body>
 </topic>

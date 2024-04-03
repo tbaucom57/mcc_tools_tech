@@ -74,6 +74,9 @@
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Tess/Notes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
+      Title="Journey to Health_forHW"
+      Link="/Project/TOCs/Journey to Health_forHW.fltoc" />
+    <TocEntry
       Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
