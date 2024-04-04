@@ -26,6 +26,9 @@
                         </menucascade> — Adds a new topic after the selected node.</choice>
                 </choices>
                 <info>The <wintitle>New</wintitle> dialog opens.</info>
+                <steptroubleshooting>If these options are not available, this topic is in a
+                    referenced map. You need to open the referenced map to insert the
+                    file.</steptroubleshooting>
             </step>
             <step>
                 <cmd>In the <uicontrol>Filter</uicontrol> field, enter the topic type you want to

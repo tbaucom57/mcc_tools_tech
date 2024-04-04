@@ -37,12 +37,14 @@
             might be worth putting researching (and practicing) short description authoring on your
             to-do list.</p>
         <ul>
-            <li><xref
-                    href="https://www.oxygenxml.com/dita/styleguide/webhelp-feedback/Artefact/Syntax_and_Markup/c_Guidelines_for_Crafting_Short_Descriptions.html"
+            <li><cite>Guidelines for crafting short descriptions</cite> in the Oxygen XML
+                documentation — <xref
+                    href="https://www.oxygenxml.com/dita/styleguide/Syntax_and_Markup/c_Guidelines_for_Crafting_Short_Descriptions.html"
                     format="html" scope="external"/></li>
-            <li><xref
-                    href="https://www.oasis-open.org/committees/download.php/57803/DITA-Adoption_2016_Writing-Effective-Short-Descriptions.pdf"
-                    format="pdf" scope="external"/></li>
+            <li><cite>Writing Effective Short Descriptions</cite> by the OASIS DITA Adoption TC /
+                Best Practices — <xref
+                    href="https://groups.oasis-open.org/higherlogic/ws/public/document?document_id=57803"
+                    format="html" scope="external"/></li>
         </ul>
     </conbody>
 </concept>
