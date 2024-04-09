@@ -2,7 +2,7 @@ name: DITA to PDF
 'on':
   push:
     branches:
-      - Winter2023
+      - Winter2024
     paths:
       - 'Week11-DITA/Homework/ZoeLawson.ditamap'
       - 'Week11-DITA/Homework/Zoe/**'
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Git checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Build PDF
         uses: dita-ot/dita-ot-action@master
         with:
@@ -21,7 +21,7 @@ jobs:
           transtype: mcchandout
           output-path: .
       - name: Deploy Output to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4.4.1
+        uses: JamesIves/github-pages-deploy-action@v4.5.0
         with:
-          BRANCH: Winter2023
+          BRANCH: Winter2024
           folder: .
