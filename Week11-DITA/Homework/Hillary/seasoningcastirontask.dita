@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task">
+    <title>Seasoning a Cast Iron Pan</title>
+    <shortdesc>Properly seasoning your cast iron pan forms a protective layer on its surface,
+        preventing rust and enhacing its non-stick properties.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_rjz_kqy_1bc"><xmlelement>prereq</xmlelement> Thoroughly clean your cast
+            iron pan with hot water and a gentle scrubbing brush, ensuring all food residue and
+            previous seasoning layers are removed.</prereq>
+        <steps id="steps_sjz_kqy_1bc">
+            <step>
+                <cmd>Dry the clean pan thoroughly. </cmd>
+            </step>
+            <step>
+                <cmd>Apply a thin layer of oil such as vegetable oil or flaxeed oil to the entire
+                    surface of the pan including the handle.</cmd>
+            </step>
+            <step>
+                <cmd>Place the oiled pan upside down in a preheated oven at 375 degrees Farenheight
+                    and bake for one hour.</cmd>
+            </step>
+            <step>
+                <cmd>Let the pan cool in the oven before removing.</cmd>
+                <info>For detailed instructions and additional tips on seasoning cast iron pans,
+                    refer to the manufacturer's guidelines or trusted culinary resources such as
+                        "<xref href="../Hillary/seasoningreference.dita">The Cast Iron Skillet
+                        Cookbook</xref>" by Sharon Kramis and Julie Kramis Hearne.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

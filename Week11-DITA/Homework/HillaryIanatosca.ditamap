@@ -30,9 +30,22 @@
         </booklists>
     </frontmatter>
     <chapter href="Hillary/topic.dita">
-        <topicref href="common/concept.dita"/>
+        <topicref href="Hillary/how_to_season_cast_iron_pans_topic.dita"/>
+        <topicref href="Hillary/seasoningcastirontask.dita"/>
+        <topicref href="Hillary/seasoningcastironreference.dita"/>
         <topicref href="common/task.dita"/>
+        <topicref href="common/reference_0.dita"/>
         <topicref href="common/reference.dita"/>
+    </chapter>
+    <chapter href="Hillary/cleaning_and_maintaining_cast_iron_pans.dita">
+        <topicref href="Hillary/howtocleanandmaintaincastironpansconcept.dita"/>
+        <topicref href="Hillary/howtocleanandmaintaintask.dita"/>
+        <topicref href="Hillary/reference.dita"/>
+    </chapter>
+    <chapter href="Hillary/avoiding_common_mistakes_in_cast_iron_care.dita">
+        <topicref href="Hillary/howtoavoidcommonmistakesconcept.dita"/>
+        <topicref href="Hillary/avoidcommonmistakestask.dita"/>
+        <topicref href="Hillary/avoiding_common_mistakes_reference.dita"/>
     </chapter>
     <backmatter>
         <keydef processing-role="resource-only" keys="author"><topicmeta><keywords><keyword>Hillary Ianatosca</keyword></keywords></topicmeta></keydef>
