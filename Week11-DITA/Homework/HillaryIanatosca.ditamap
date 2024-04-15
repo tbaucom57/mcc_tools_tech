@@ -2,7 +2,7 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap>
     <booktitle>
-        <mainbooktitle>Sample Bookmap</mainbooktitle>
+        <mainbooktitle>Cast Iron Care and Use Basics</mainbooktitle>
         <booktitlealt>Week 11</booktitlealt>
     </booktitle>
     <bookmeta>
@@ -30,9 +30,19 @@
         </booklists>
     </frontmatter>
     <chapter href="Hillary/topic.dita">
-        <topicref href="common/concept.dita"/>
-        <topicref href="common/task.dita"/>
-        <topicref href="common/reference.dita"/>
+        <topicref href="Hillary/concept_cast_iron_prep.dita"/>
+        <topicref href="Hillary/task_cast_iron_prep.dita"/>
+        <topicref href="Hillary/reference_cast_iron_prep.dita"/>
+    </chapter>
+    <chapter href="Hillary/topic2.dita">
+        <topicref href="Hillary/concept_cooking_tips.dita"/>
+        <topicref href="Hillary/task_cooking_tips.dita"/>
+        <topicref href="Hillary/reference_cooking_tips.dita"/>
+    </chapter>
+    <chapter href="Hillary/topic3.dita">
+        <topicref href="Hillary/concept_storing_cast_iron.dita"/>
+        <topicref href="Hillary/task_storing_cast_iron.dita"/>
+        <topicref href="Hillary/reference_storing_cast_iron.dita"/>
     </chapter>
     <backmatter>
         <keydef processing-role="resource-only" keys="author"><topicmeta><keywords><keyword>Hillary Ianatosca</keyword></keywords></topicmeta></keydef>
