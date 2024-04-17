@@ -3,8 +3,11 @@
 <concept id="class_demo_concept">
     <title>Class Demo Concept</title>
     <shortdesc>Learn how to write good short descriptions.</shortdesc>
+    <prolog>
+        <metadata/>
+    </prolog>
     <conbody>
-        <p>Use the <xmlelement>p</xmlelement> element for paragraphs.</p>
+        <p importance="optional">Use the <xmlelement>p</xmlelement> element for paragraphs.</p>
         <p>Here is a second paragraph.</p>
         <ul id="ul_b2y_ws1_z1c">
             <li>Unordered lists for bulleted list</li>
