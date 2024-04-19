@@ -51,7 +51,11 @@
       Link="/Content/Hillary/HillaryIanatosca.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Kristina/KristinaStroberg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Kristina/KristinaStroberg.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Do-it-Yourself At-Home TCA Peels Madcap Flare"
+        Link="/Project/TOCs/Do-it-Yourself At-Home TCA Peels Madcap Flare.fltoc" />
+    </TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Madhumita/MadhumitaSen.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
