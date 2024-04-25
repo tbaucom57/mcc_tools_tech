@@ -3,8 +3,6 @@
 <task id="task_storing_cast_iron">
     <title>Storing Cast Iron</title>
     <taskbody>
-        <context> Proper storage is crucial for maintaining the quality of your cast iron pan.
-            Follow these steps:</context>
         <steps>
             <step>
                 <cmd>Cool completely:</cmd>
