@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/Example_image.png" />
     <Url Source="Resources/Images/MCC16_logotag_maroon_200.png" />
 </UrlList>
