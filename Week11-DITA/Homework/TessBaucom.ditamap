@@ -29,10 +29,11 @@
             <toc/>
         </booklists>
     </frontmatter>
-    <chapter href="Tess/topic.dita">
-        <topicref href="common/concept.dita"/>
-        <topicref href="common/task.dita"/>
-        <topicref href="common/reference.dita"/>
+    <chapter href="Tess/Brioche%20Recipe.dita">
+        <topicref href="Tess/Yeast.dita"/>
+        <topicref href="Tess/Ingredients.dita"/>
+        <topicref href="Tess/Instructions.dita"/>
+        <topicref href="Tess/assembly_and_baking.dita"/>
     </chapter>
     <backmatter>
         <keydef processing-role="resource-only" keys="author"><topicmeta><keywords><keyword>Tess Baucom</keyword></keywords></topicmeta></keydef>
