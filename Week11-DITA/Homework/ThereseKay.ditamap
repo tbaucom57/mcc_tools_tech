@@ -30,6 +30,9 @@
         </booklists>
     </frontmatter>
     <chapter href="Therese/topic.dita">
+        <topicref href="Therese/why_use_google_earth.dita"/>
+        <topicref href="Therese/Accessing_Google_Earth_in_your_browser.dita"/>
+        <topicref href="Therese/google_earth_keyboard_shortcuts.dita"/>
         <topicref href="common/concept.dita"/>
         <topicref href="common/task.dita"/>
         <topicref href="common/reference.dita"/>
