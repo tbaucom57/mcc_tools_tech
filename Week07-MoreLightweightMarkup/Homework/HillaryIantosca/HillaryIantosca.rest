@@ -91,7 +91,7 @@ Monitoring and post-launch activities include:
    |                       | Verify orbital insertion                  |
    +-----------------------+------------------------------------------+
 
-.. image:: github/mcc_tools_tech/week07-more-lightweightmarkup/homework/hillaryiantosca/electricalinterfaces.jpeg
+.. image:: electricalinterfaces.jpeg
 
 Conclusion
 -----------
