@@ -66,7 +66,7 @@ Directions
 .. warning:: Do not over-knead the dough. The butter will warm up and affect the final texture of the scones.
 
 #. Shape the dough into a ball and press it into a disk shape. Use the rolling pin to roll out the dough into an 8-inch circle.
-#. Cut the dough into **8-10 wedges** and place them on a *parchment-lined* baking sheet. You can brush the scones with some extra heacy cream on top for extra browning/crunch.
+#. Cut the dough into **8-10 wedges** and place them on a *parchment-lined* baking sheet. You can brush the scones with some extra heavy cream on top for extra browning/crunch.
 #. Place the tray into the fridge for **15-30 minutes** to re-chill the dough (it holds the shape better as it bakes.)
 #. Preheat the oven to **400°F** while the dough is chilling.
 #. Place the scones in the oven and bake for **18-26 minutes,** or until golden brown around the edges and top. This time will vary depending on the size of the scones.
